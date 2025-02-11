@@ -1,0 +1,136 @@
+body {
+  /*padding-top: 50px;*/
+  font-size: 13pt;
+}
+
+a {
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+em {
+  font-style: normal;
+  font-weight: bold;
+}
+
+.bold, .session-name {
+  font-weight: bold;
+}
+
+.paper-authors {
+  font-style: italic;
+  clear: both;
+}
+
+.starter-template {
+  /*padding: 40px 15px;*/
+  text-align: center;
+}
+
+.content {
+  text-align:left;
+}
+
+.tabular {
+    display:table;
+}
+.tabular-row {
+    display:table-row;
+}
+.tabular-cell {
+    display:table-cell;
+}
+
+.tabular-cell-pd {
+    display:table-cell;
+    padding-left: 1em;
+}
+
+#schedule_table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-bottom: 1rem;
+}
+
+#schedule_table > tbody > tr {
+  border-top: 1px grey solid;
+  border-bottom: 1px grey solid;
+}
+
+#schedule_table > tbody > tr > td {
+  vertical-align: top;
+  padding: 0.55em;
+}
+
+#schedule_table > tbody > tr > td.time {
+  white-space: nowrap;
+  text-align: right;
+}
+
+#schedule_table ul {
+  margin: 0;
+}
+
+#schedule_table ul > li {
+  margin: 0.3em 0;
+}
+
+#schedule_table ul > li .paper-length {
+  font-size: 0.9em;
+  float: right;
+}
+
+.vcenter {
+    display: flex;
+    align-items: center;
+}
+
+
+.fcs-topics-content {
+  text-align: center;
+}
+.fcs-topics{
+  text-align: left;
+  display: inline-block;
+  vertical-align: middle;
+}
+
+.fcs-topics-xx{
+  margin-left: 2em;
+  margin-right: 2em;
+  margin-bottom: 1em;
+}
+
+#dates-div > div > div {
+  padding-top: 0.25em;
+  padding-bottom: 0.25em;
+  border-bottom: 1px solid gray;
+}
+
+#dates-div > div:first-child > div {
+  border-top: 1px solid gray;
+}
+
+@media only screen and (min-width: 1200px)
+ /* and (-webkit-min-device-pixel-ratio: 2) */
+  {
+    .container {
+      max-width: 1000px;
+    }
+
+    /*
+    .fcs-topics-content {
+      text-align: left;
+      margin-left:0.5em;
+      margin-right:0em;
+    }
+    .fcs-topics{
+      text-align: left;
+      display: block;
+      vertical-align: left;
+    }
+    */
+}
