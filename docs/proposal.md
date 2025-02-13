@@ -10,11 +10,11 @@ continued research in this area. FCS welcomes papers on all topics related to
 the formal underpinnings of security and privacy, and their applications. The
 scope of FCS includes, but is not limited to:
 
-* formal specification, analysis, and design of cryptographic protocols and their applications
-* formal definitions of various aspects of security such as access control mechanisms, mobile code security and network security
-* modeling of information flow and its application to confidentiality policies, system composition, and covert channel analysis
-* foundations of privacy
-* applications of formal techniques to practical security and privacy
+* Formal specification, analysis, and design of cryptographic protocols and their applications
+* Formal definitions of various aspects of security such as access control mechanisms, mobile code security and network security
+* Modeling of information flow and its application to confidentiality policies, system composition, and covert channel analysis
+* Foundations of privacy
+* Applications of formal techniques to practical security and privacy
 
 We are interested in new theoretical results, in exploratory presentations that
 examine open questions and raise fundamental concerns about existing theories,
@@ -30,9 +30,8 @@ mentoring opportunities alongside the research track.  As with last year, the
 goal of the program this year is to address the mentoring needs of aspiring and
 junior researchers. It is difficult but necessary for them to build long-term
 connections in the programming languages community, and to access the
-perspectives of researchers from other institutions. Thus, the FCS workshop
-plans to have a couple mentoring sessions throughout the day to meet such
-mentoring needs.
+perspectives of researchers from other institutions. Thus, the FCS workshop will
+include mentoring activities throughout the day to meet these needs.
 
 ## Previous Workshops
 
@@ -62,13 +61,13 @@ FCS has a long history dating back over 20 years, co-located with CSF for over 1
 
 ## Organization
 
-* Co-Chairs: Marco Vassena (m.vassena@uu.nl), Anitha Gollamudi (Anitha_Gollamudi@uml.edu)
-* Affiliated Conference: CSF 
-* In-Person Participants: 25–30 (historically)
-* Format: Paper presentations plus mentoring events
-* Invited Speakers: 1 speaker (TBD)
-* Paper Selection: Double-blind reviews by program committee
-* Dissemination: Informal. No published proceedings, but papers may be posted on the workshop website (at the authors’ discretion).
-* Duration: 1 day
-* Period: Traditionally the day before CSF, which has worked well.
-* Virtual Backup: Synchronous presentations on Zoom
+* **Co-Chairs**: Marco Vassena (m.vassena@uu.nl), Anitha Gollamudi (Anitha_Gollamudi@uml.edu)
+* **Affiliated Conference**: CSF 
+* **In-Person Participants**: 25–30 (historically)
+* **Format**: Paper presentations plus mentoring events
+* **Invited Speakers**: 1 speaker (TBD)
+* **Paper Selection**: Double-blind reviews by program committee
+* **Dissemination**: Informal. No published proceedings, but papers may be posted on the workshop website (at the authors’ discretion).
+* **Duration**: 1 day
+* **Period**: Traditionally the day before CSF, which has worked well.
+* **Virtual Backup**: Synchronous presentations on Zoom
